@@ -11,7 +11,7 @@ export default defineConfig({
         home: resolve(__dirname, "src/index.html"),
         about: resolve(__dirname, "src/about/index.html"),
         pagethree: resolve(__dirname, "src/pagethree/index.html"),
-        images: resolve(__dirname, "src/images"),
+        
       },
     },
   },
