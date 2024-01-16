@@ -1,5 +1,11 @@
-$clr: rgb(0, 153, 255);
+@use 'base';
+@use 'components';
+@use 'layers';
+@use 'utilities';
+@use 'vendor';
 
-body {
-    background: $clr;
-}
+// $clr: rgb(0, 153, 255);
+
+// body {
+//     background: $clr;
+// }
